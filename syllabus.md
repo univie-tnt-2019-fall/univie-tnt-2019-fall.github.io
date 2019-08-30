@@ -8,6 +8,7 @@ robots: noindex
 # 070112 UE Course in Methodology - Tools & Techniques for Digital Humanities (2019W)
 
 * Instructor: Dr. Maxim Romanov, [maxim.romanov@univie.ac.at](maxim.romanov@univie.ac.at)
+* Language of instruction: English
 * Office hours: We 2–3pm (or by appointment)
 * Office: Hauptgebäude, Room O2.121 (2.Stock, Stiege 9)
 
