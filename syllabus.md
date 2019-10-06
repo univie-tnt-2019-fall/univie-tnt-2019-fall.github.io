@@ -29,7 +29,7 @@ Course evaluation will be a combination of in-class participation (30%), weekly 
 
 # Class Participation
 
-Each class session will consist in large part of practical hands-on exercises led by the instructor. BRING YOUR LAPTOP! We will accommodate whatever operating system you use, but it should be a laptop rather than a tablet. Don’t forget that asking for help counts as participation!
+Each class session will consist in large part of practical hands-on exercises led by the instructor. BRING YOUR LAPTOP! We will accommodate whatever operating system you use (Windows, Mac, Linux), but it should be a laptop rather than a tablet. Don’t forget that asking for help counts as participation!
 
 # Homework
 
@@ -77,7 +77,8 @@ The following is the list of software, applications and packages that we will be
 
 * Homework assignments are to be submitted by the beginning of the next class;
 * For the first few classes you must email them to the instructor (as attachments)
-* Later, you will be publishing your homework assignments on your websites.
+* Later, you will be publishing your homework assignments on your websites and sending an email to the instructor informing that you have completed your homework and providing a link to the blogpost with the homework report that you created.
+	*  In the subject of your email, please, use the following format: `CourseID-LessonID-HW-Lastname-matriculationNumber`, for example, if I were to submit homework for the first lesson, my subject header would look like: `070112-L01-HW-Romanov-12435687`.
 * For Codecademy.com assignments:
 	* take screenshots with your latest progress and email the image to the instructor.
 		* [Mac] Taking a screenshot: <https://support.apple.com/en-us/HT201361 >
