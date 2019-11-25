@@ -113,11 +113,11 @@ The following is the list of software, applications and packages that we will be
 - **[ #02 ]** “Off with the Interface!” Getting to know the command line
 - **[ #03 ]** Version Control and Collaboration: Github.com
 - **[ #04 ]** Citation Management and Academic Writing II - with Pandoc, markdown, Zotero/BibTex
-- **[ #05 ]** Georeferencing with QGIS
-- **[ #06 ]** Constructing robust searches with Regular expressions
-- **[ #07 ]** Webscraping with Wget, preparing URLs with Python and other tools
-- **[ #08 ]** Text Markup [TEI XML], and how to remove it... - with Python scripts
-- **[ #09 ]** Structuring data with Python scripts
+- **[ #05 ]** Constructing robust searches with Regular expressions
+- **[ #06 ]** Webscraping with Wget, preparing URLs with Python and other tools
+- **[ #07 ]** Text Markup [TEI XML], and how to remove it... - with Python scripts [anaconda]
+- **[ #08 ]** Structuring data with Python scripts
+- **[ #09 ]** Georeferencing with QGIS
 - **[ #10 ]** Text to Map (1/2) - with Python and QGIS
 - **[ #11 ]** Text to Map (2/2) - with Python and QGIS
 - **[ #12 ]** Topic modeling - with Python
